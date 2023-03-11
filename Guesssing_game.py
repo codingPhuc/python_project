@@ -4,4 +4,4 @@
 import random 
 def guess(x) :
     pass
-    
+print(a)
